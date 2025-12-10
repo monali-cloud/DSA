@@ -1,9 +1,21 @@
-# DSA
-Learning DSA concepts from scratch 
+# My DSA Repository
 
+This repository contains well-organized Data Structures and Algorithms code for practice.
 
-# CPP
+## 📂 Repository Content
+✔ Algorithms  
+✔ Patterns  
+✔ Functions  
+✔ Programs  
 
-#CONCEPTS OF CPP
+## 💡 Purpose
+To help me practice C++ DSA topics in a clean and organized way.
 
-# DAILY PRACTICE 
+## ⭐ How to Use
+Open any folder → choose a file → view the code.
+
+## 🔥 Skills Used
+- C++
+- DSA
+- Patterns
+- Logical Thinking
