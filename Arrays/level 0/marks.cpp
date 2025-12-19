@@ -12,7 +12,7 @@ int main()
     //loops to 0 to size-1
     for(int i=0; i<size;i++)
     {
-        cout<<marks[i]<<endl;
+        cout<<"the marks is :"<<marks[i]<<endl;
     }
 return 0;
 }
